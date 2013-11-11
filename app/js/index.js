@@ -47,7 +47,7 @@ var app = {
 		});
 		
 		// star the angular framework
-    	angular.bootstrap(document, ["orderApp"]);
+    	angular.bootstrap(document, ["myApp"]);
     }
 };
 
