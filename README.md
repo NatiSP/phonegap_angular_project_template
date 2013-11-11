@@ -1,1 +1,1 @@
-# Phonegap - AngularJS Project Template
+# Phonegap - AngularJS Project Template.
